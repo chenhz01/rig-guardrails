@@ -10,6 +10,8 @@ Spec-only: it executes nothing, ever.
 (deterministic, fully tested); **Medium (60-79%)** that the built-in command
 classification covers a real team's command surface without edits.
 
+<p align="center"><img src="docs/demo.gif" alt="demo" width="720"></p>
+
 ## Problem
 
 Multi-agent rigs converge on the same unstated guardrail: a seat runs
